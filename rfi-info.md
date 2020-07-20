@@ -52,4 +52,6 @@
  * [KA7OEI's blog post on containing switching PSU noise (warning - involves messing with mains voltage)](http://ka7oei.blogspot.com/2014/08/completely-containing-switching-power.html)
  
  * [KA7OEI's blog post on quieting USB car power supply](http://ka7oei.blogspot.com/2015/02/a-quiet-5-volt-usb-car-power-supply.html)
+ 
+ * [QRP-Gurus analysis of how best to source and deploy ferrite](https://qrm.guru/the-truth-about-ferrites/?fbclid=IwAR0viEVx29feaGLriOkXeD88TdpQYe1VEx_m4AHFcSjSxjhNTxBNqZZ-sXg)
 
